@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Prathmesh Salunkhe
-- 👀 I’m interested in Data Structures and Frontend development
-- 🌱 I’m currently learning User Experience Design
-- 💞️ I’m looking to collaborate on with my friends and creating projects based on web dev
+# Hi there, I'm Prathmesh
+---
+- 👀 I’m interested in web dev & AI/ML
+- 🌱 I’m currently learning advance DSA and RL.
+- 💞️ I’m looking for better problems in the world to solve.
 - 📫 How to reach me : salunkheprathmesh0@gmail.com
 
 see more - https://prathmesh796.github.io
