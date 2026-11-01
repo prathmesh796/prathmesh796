@@ -9,7 +9,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=prathmesh796&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=prathmesh796&layout=compact&langs_count=6&theme=dark_github)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh796&" alt="prathmesh796" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prathmesh796&theme=github-dark-blue&border_radius=6&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 see more - https://prathmesh796.github.io
